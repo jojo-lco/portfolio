@@ -23,7 +23,7 @@
 
 ## Installation
 
-The app is deployed on Github pages: [Josephine Ndungu](https://jose-lco.github.io/portfolio/)
+The app is deployed on Github pages: [Josephine Ndungu](https://jojo-lco.github.io/portfolio/)
 ## Usage
 
 When the user loads the page, it should display a navigation at the top for what you would like to learn about me and my skills. The user is able to view in smaller devices as well making it responsive. 
@@ -53,5 +53,5 @@ I used this repository to learn about badges:
 ## Authors
 
 **This project was created by:**
-* Jose-lco [![HitCount](http://hits.dwyl.com/Jose-lco/portfolio.svg)](http://hits.dwyl.com/Jose-lco/portfolio)
+* Jojo-lco [![HitCount](http://hits.dwyl.com/Jose-lco/portfolio.svg)](http://hits.dwyl.com/Jose-lco/portfolio)
   * Contact info: [Linkedin profile](https://www.linkedin.com/in/josephine-ndungu-a0a441160)
